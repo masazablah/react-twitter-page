@@ -1,21 +1,20 @@
 .optionContainer {
-    display: flex;
-    width: 100%;
-    margin-bottom: 15px;
-  }
-  .title {
-    border: none;
-    background: none;
-    padding: 0;
-    cursor: pointer;
-    margin-left: 10px;
-    color: rgb(226, 223, 223);
-    font-size: medium;
-  }
-  
-  .optionBarContainer {
-    display: flex;
-    flex-direction: column;
-    margin-left: 20px;
-  }
-  
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.title {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  margin-left: 10px;
+  color: rgb(226, 223, 223);
+  font-size: medium;
+}
+
+.optionBarContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
