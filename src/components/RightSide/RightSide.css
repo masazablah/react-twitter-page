@@ -1,0 +1,31 @@
+.rightSectionContainer {
+    width: 30%;
+  }
+  
+  .search-bar {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 80%;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(39, 39, 39);
+    padding: 8px;
+    border-radius: 20px;
+  }
+  
+  .search-input {
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    padding: 8px;
+    outline: none;
+  }
+  
+  .search-button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px;
+  }
