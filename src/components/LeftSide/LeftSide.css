@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+  }
+  
+  .leftContainer {
+      width: 20%;
+      height: 1370px;
+      position: relative;
+      border-right: 1px solid rgb(95, 94, 94);
+    }
+    .logo {
+      width: 20px;
+      height: 20px;
+      display: block;
+      margin-top: 10px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+    }
+    .postButton {
+      width: 80%;
+      color: white;
+      height: 40px;
+      background-color: rgb(95, 192, 252);
+      border-radius: 20px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    .chatBox {
+      display: flex;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      color: white;
+    }
+    .subName {
+      color: rgb(95, 94, 94);
+      margin: 0px;
+      padding: 0px;
+    }
+    .profileLogo {
+      width: 30px;
+      height: 30px;
+      display: block;
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-bottom: 20px;
+      border-radius: 50%;
+    }
+    .nameContainer {
+      margin-left: 10px;
+    }
