@@ -1,0 +1,37 @@
+.TrendsForYouContainer {
+    color: white;
+    margin-left: 20px;
+    width: 85%;
+    background-color: rgb(39, 39, 39);
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .TrendsForYouHeader {
+    margin: 20px 20px;
+    padding-top: 20px;
+  }
+  .footer {
+    margin-left: 20px;
+  }
+
+  .trendsForYouHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+  .trendsForYouContainer {
+    margin-bottom: 20px;
+  }
+
+  .gray {
+    color: rgb(95, 94, 94);
+    font-size: medium;
+    margin-left: -15px;
+  }
+
+  .footer_gray{
+    color: rgb(95, 94, 94);
+    font-size: 14px;
+    margin-right: 10px;
+  }

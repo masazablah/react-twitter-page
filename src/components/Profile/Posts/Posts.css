@@ -1,0 +1,51 @@
+.postContainer {
+    display: flex;
+    width: 100%;
+    color: white;
+    margin-top: 30px;
+    justify-content: space-between;
+  }
+  .postContent {
+    margin-top: 30px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .postInnerContainer {
+    display: flex;
+  }
+  .postOwnerPhoto {
+    width: 50px;
+    height: 50px;
+    display: block;
+
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+  }
+  .postName {
+    margin-left: 10px;
+  }
+  .postOwner {
+    display: flex;
+  }
+  .displayMoreDiv {
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+  }
+  .postButtons {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+
+  .gray {
+    color: rgb(95, 94, 94);
+    font-size: medium;
+    padding-left: 5px;
+    padding-bottom: 10px;
+  }

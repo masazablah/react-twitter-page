@@ -1,0 +1,108 @@
+.mainSectionContainer {
+    width: 50%;
+    position: relative;
+    border-right: 1px solid rgb(95, 94, 94);
+  }
+  .header {
+    display: flex;
+    flex-direction: row;
+  }
+  .reactImage {
+    width: 100%;
+  }
+  .belowHero {
+    color: white;
+    margin-left: 20px;
+  }
+  .linkAndDate {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  .reactLink {
+    color: blue;
+  }
+  .followers {
+    margin-left: 20px;
+  }
+  .navigation {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .navButton {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+    margin-left: 10px;
+    color: rgb(95, 94, 94);
+    font-size: medium;
+  }
+  .navButtonIcon {
+    border: none;
+    background: none;
+    padding: 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: rgb(95, 94, 94);
+    font-size: medium;
+    border: 1px solid rgb(95, 94, 94);
+    border-radius: 50%;
+  }
+  .navButtonFollow {
+    border: none;
+    background: none;
+    padding: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: white;
+    font-size: medium;
+    border: 1px solid rgb(95, 94, 94);
+    border-radius: 20px;
+  }
+  .btnDiv {
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: right;
+  }
+  .showMoreBtn {
+    border: none;
+    background: none;
+    padding: 0;
+    margin-bottom: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: blue;
+    font-size: medium;
+  }
+  .postsButton {
+    border: none;
+    background: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: white;
+    font-size: medium;
+    border-bottom: 4px solid rgb(95, 192, 252);
+  }
+  hr {
+    border: none;
+    border-top: 2px solid rgb(95, 94, 94);
+  }
+  .profilePhoto {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 230px;
+    left: 15px;
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+
+  .gray{
+    color: rgb(95, 94, 94);
+  font-size: medium;
+  }

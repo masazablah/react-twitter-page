@@ -1,0 +1,36 @@
+.youMightLikeContainer {
+    color: white;
+    margin-left: 20px;
+    width: 85%;
+    background-color: rgb(39, 39, 39);
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .youMightLikeHeader {
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: rgb(39, 39, 39);
+  }
+
+  
+.ymlBox {
+  display: flex;
+  background-color: rgb(39, 39, 39);
+  width: 100%;
+  color: white;
+}
+.youMightLikeLogo {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+.profileContainer {
+  display: flex;
+  margin-right: 15px;
+  justify-content: space-between;
+}

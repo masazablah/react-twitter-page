@@ -1,0 +1,57 @@
+.whoFollows {
+    display: flex;
+    margin-left: 30px;
+  }
+  .followContainer {
+    margin: 20px;
+  }
+  .followBox {
+    display: flex;
+  
+    width: 100%;
+    color: white;
+  }
+  .followLogo {
+    width: 40px;
+    height: 40px;
+    display: block;
+
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+  }
+  .headingFollow {
+    display: flex;
+    justify-content: space-between;
+  }
+  .followText {
+    margin-left: 70px;
+    margin-top: -20px;
+  }
+
+  .gray{
+    padding-left:15px;
+    color: rgb(95, 94, 94);
+  font-size: medium;
+  }
+
+  
+  .followBtn {
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    width: 90px;
+    cursor: pointer;
+  }
+
+  .headingContainer {
+    display: flex;
+    flex-direction: column;
+    color: white;
+  }
+  .subHeading {
+    color: rgb(95, 94, 94);
+    margin: 0px;
+    padding: 0px;
+  }
